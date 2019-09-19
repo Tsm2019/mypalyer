@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/yinliang.png</file>
+        <file>image/yin_jian.png</file>
+        <file>image/yin_jia.png</file>
+        <file>image/suiji.png</file>
+        <file>image/stop.png</file>
+        <file>image/shunxu.png</file>
+        <file>image/people.png</file>
+        <file>image/pause_song.png</file>
+        <file>image/pause.png</file>
+        <file>image/over1.png</file>
+        <file>image/over.png</file>
+        <file>image/next_song.png</file>
+        <file>image/nextsong.png</file>
+        <file>image/music.png</file>
+        <file>image/last_song.png</file>
+        <file>image/kuaitui_song.png</file>
+        <file>image/kuaijin_song.png</file>
+        <file>image/jingyin.png</file>
+        <file>image/fanhui1.png</file>
+        <file>image/fanhui.png</file>
+        <file>image/danqu.png</file>
+        <file>image/beijing1.jpg</file>
+        <file>image/begin_song.png</file>
+        <file>image/add.png</file>
+        <file>image/beijing2.jpg</file>
+        <file>image/shuaxin.png</file>
+        <file>image/120.jpg</file>
+        <file>image/119.jpg</file>
+        <file>image/118.jpg</file>
+        <file>image/117.jpg</file>
+        <file>image/116.jpg</file>
+        <file>image/115.jpg</file>
+        <file>image/114.jpg</file>
+        <file>image/112.jpg</file>
+        <file>image/111.jpg</file>
+        <file>image/110.jpg</file>
+        <file>image/113.jpg</file>
+    </qresource>
+</RCC>
